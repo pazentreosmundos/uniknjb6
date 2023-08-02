@@ -1,0 +1,13 @@
+.cabeçalho {
+    background-color: var(--cor-cabeçalho);
+    padding:1em;}
+    .conteiner{display: flex;
+        align-items: center;}
+        .conteiner__imagem, .conteiner__frase{
+            padding: 1em;}
+            .conteiner__titulo, .conteiner__frase{
+                display:nome;}
+                @media screen and(min-width .820px){
+                    .conteiner__titulo,.conteiner__titulo__negrito
+                    font-size:30px;}
+                    
